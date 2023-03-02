@@ -16,3 +16,5 @@
 - Language Models as Zero-shot Planners: Extracting Actionable Knowledge for Embodied Agents.
 - REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments. 2020 CVPR
 - ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
+- SQA3D: SITUATED QUESTION ANSWERING IN 3D SCENES. 2023 ICLR
+- Episodic Transformer for Vision-and-Language Navigation. 2021 ICCV
