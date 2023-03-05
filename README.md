@@ -18,3 +18,11 @@
 - ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
 - SQA3D: SITUATED QUESTION ANSWERING IN 3D SCENES. 2023 ICLR
 - Episodic Transformer for Vision-and-Language Navigation. 2021 ICCV
+#### Pre-Train for Cross-Modal Representation ####
+-  Lxmert: Learning crossmodality encoder representations from transformers. 2019 EMNLP
+-  Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks. 2019 NIPS
+-  Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks.
+-  Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training
+-  Cross-modal Map Learning for Vision and Language Navigation
+-  Airbert: In-domain Pretraining for Vision-and-Language Navigation
+-  Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models
