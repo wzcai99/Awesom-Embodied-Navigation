@@ -26,3 +26,7 @@
 -  Cross-modal Map Learning for Vision and Language Navigation
 -  Airbert: In-domain Pretraining for Vision-and-Language Navigation
 -  Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models
+#### LLM for Embodied AI ####
+- LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models
+- LEBP — Language Expectation & Binding Policy: A Two-Stream Framework for Embodied Vision-and-Language Interaction Task Learning Agents
+- Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents
