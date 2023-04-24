@@ -30,3 +30,16 @@
 - LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models
 - LEBP — Language Expectation & Binding Policy: A Two-Stream Framework for Embodied Vision-and-Language Interaction Task Learning Agents
 - Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents
+
+
+#### ImageGoal Navigation ####
+- Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning, 2017 ICRA
+- Semi-Parametric Topological Memory for Navigation, 2018 ICLR
+- Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks, 2019 CVPR
+- Neural Topological SLAM for Visual Navigation, 2020 CVPR
+- Visual Graph Memory with Unsupervised Representation for Visual Navigation, 2021 ICCV
+- No RL, No Simulation: Learning to Navigate without Navigating, 2021 NIPS
+- Topological Semantic Graph Memory for Image-Goal Navigation, 2022 CoRL
+- Zero Experience Required: Plug & Play Modular Transfer Learning for Semantic Visual Navigation, 2022 CVPR
+- Memory-Augmented Reinforcement Learning for Image-Goal Navigation, 2022 IROS
+- Last-Mile Embodied Visual Navigation, 2022 CoRL
