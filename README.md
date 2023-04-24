@@ -43,3 +43,5 @@
 - Zero Experience Required: Plug & Play Modular Transfer Learning for Semantic Visual Navigation, 2022 CVPR
 - Memory-Augmented Reinforcement Learning for Image-Goal Navigation, 2022 IROS
 - Last-Mile Embodied Visual Navigation, 2022 CoRL
+- ViNG: Learning Open-World Navigation with Visual Goals, 2021 ICRA
+- Lifelong Topological Visual Navigation, 2022 RA-L
