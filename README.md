@@ -48,9 +48,11 @@
 
 #### Multi-Modal Manipulation ####
 - Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models. 2022 NIPS workshop
-- Scaling Robot Learning with Semantically Imagined Experience. 2023 
+- Scaling Robot Learning with Semantically Imagined Experience. 2023 \
+- Learning Universal Policies via Text-Guided Video Generation, 2023
 - Policy Adaptation from Foundation Model Feedback, 2023 CVPR
 - CLIPort: What and Where Pathways for Robotic Manipulation, 2021 CoRL
 - RT-1: Robotics Transformer for Real-World Control at Scale. 2022
 - Open-World Object Manipulation using Pre-trained Vision-Language Models. 2023
+- R3M: A Universal Visual Representation for Robot Manipulation. 2022 CoRL
 
